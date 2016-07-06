@@ -3,7 +3,15 @@
 	color: #00bfff;
 	font-size: 2.5em;
 }
-
+.container{
+	font-family: 'Roboto'. sans-serif;
+}
+.hatch-exp, .free-exp, .intern-exp, .teach-exp{
+	font-size: 20px;
+}
+.content{
+	font-size: 17px;
+}
 .left_header{
 	float: left;
 	padding-right: 20em;
@@ -14,16 +22,22 @@
 }
 
 .description{
-	font-size: 2em;
+	font-size: 30px;
 }
 .title1{
-	font-size: 1.5em
+	font-size: 30px;
 }
 
-.content{
+.content, a{
 	color: #708090;
 
 }
 .skills img{
 	width: 75%;
+}
+.top-icon{
+	font-size:25px;
+}
+.down-button{
+	margin-bottom: 0.9em;
 }
